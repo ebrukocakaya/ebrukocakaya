@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ebrukocakaya
-- 👀 I’m interested in RNAseq and pathway curation. On the other hand I'm interested in cooking, neuroscience and yoga! 
-- 🌱 I’m currently learning R and analysing SC RNAseq. 
+- 👀 I’m interested in transcriptomics and pathway curation. 
+- 🌱 I’m currently improving my Python skills. 
 - 📫 How to reach me kocakayaebru@gmail.com
 
 <!---
